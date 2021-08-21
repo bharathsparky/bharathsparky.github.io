@@ -12845,6 +12845,9 @@ figcaption {
   .slide.slider-style-1.box-layout {
     padding-top: 100px;
   }
+  .slide .thumbnail .inner img {
+display: none;
+  }
 }
 .slide.slider-style-2 {
   padding-top: 180px;
